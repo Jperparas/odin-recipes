@@ -1,0 +1,2 @@
+In this project I created a webpage of links to recipes, I demonstrated formating with unordered and ordered lists.
+directory organization, adding images, creating local links, as well as working with github.
